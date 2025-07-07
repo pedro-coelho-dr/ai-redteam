@@ -2,3 +2,9 @@ malware_classification/malimg_paper_dataset_imgs
 malware_classification/newdata
 malware_classification/malimg.zip
 academy-regular.ovpn
+GTSRB
+
+gtsrb_cnn_trojaned.pth
+gtsrb_cnn_clean.pth
+
+trojan_student/data/
